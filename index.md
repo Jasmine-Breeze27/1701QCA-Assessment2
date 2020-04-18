@@ -19,6 +19,51 @@ When you have completed the template, submit the link to the GitHub Pages site f
 
 This project is related to mine because *insert reasons here*.
 
+### Related project 2 ###
+*Insert name of project*
+
+*Insert URL to project*
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+### Related project 3 ###
+*Insert name of project*
+
+*Insert URL to project*
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+### Related project 4 ###
+*Insert name of project*
+
+*Insert URL to project*
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+### Related project 5 ###
+*Insert name of project*
+
+*Insert URL to project*
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+### Related project 6 ###
+*Insert name of project*
+
+*Insert URL to project*
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
