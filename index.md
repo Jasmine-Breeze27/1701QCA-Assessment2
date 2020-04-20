@@ -15,7 +15,7 @@ Ever Blooming Mechanical Tulip
 
 https://www.hackster.io/jiripraus/ever-blooming-mechanical-tulip-1b0323
 
-![Image](ever blooming tulip.PNG)
+![Image](everbloomingtulip.PNG)
 
 This project is related to mine because *insert reasons here*.
 
