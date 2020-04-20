@@ -20,47 +20,47 @@ https://www.hackster.io/jiripraus/ever-blooming-mechanical-tulip-1b0323
 This project is related to mine because *insert reasons here*.
 
 ### Related project 2 ###
-*Insert name of project*
+Solar Powered LED Parking Sensor
 
-*Insert URL to project*
+https://www.hackster.io/aams86/solar-powered-led-parking-sensor-9dd11d
 
-![Image](missingimage.png)
+![Image](solarpoweredLEDparkingsensor.PNG)
 
 This project is related to mine because *insert reasons here*.
 
 ### Related project 3 ###
-*Insert name of project*
+Stereo NeoPixel Ring VU Meter
 
-*Insert URL to project*
+https://create.arduino.cc/projecthub/ericBcreator/stereo-neopixel-ring-vu-meter-b28e78?ref=tag&ref_id=lights&offset=8
 
-![Image](missingimage.png)
+![Image](stereoneopixelringvumeter.PNG)
 
 This project is related to mine because *insert reasons here*.
 
 ### Related project 4 ###
-*Insert name of project*
+Virtual Arduino Tennis
 
-*Insert URL to project*
+https://create.arduino.cc/projecthub/gatoninja236/virtual-arduino-tennis-3700ce?ref=tag&ref_id=accelerometer&offset=4
 
-![Image](missingimage.png)
+![Image](virtualarduinotennis.PNG)
 
 This project is related to mine because *insert reasons here*.
 
 ### Related project 5 ###
-*Insert name of project*
+Vernal
 
-*Insert URL to project*
+https://create.arduino.cc/projecthub/vexelius/vernal-3c7dc0?ref=tag&ref_id=accelerometer&offset=18
 
-![Image](missingimage.png)
+![Image](vernal.PNG)
 
 This project is related to mine because *insert reasons here*.
 
 ### Related project 6 ###
-*Insert name of project*
+Gesture Control Robot
 
-*Insert URL to project*
+https://create.arduino.cc/projecthub/raunak-oberai/gesture-control-robot-ff1307?ref=tag&ref_id=accelerometer&offset=1
 
-![Image](missingimage.png)
+![Image](gesturecontrolrobot.PNG)
 
 This project is related to mine because *insert reasons here*.
 
