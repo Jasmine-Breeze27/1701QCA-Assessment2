@@ -81,6 +81,9 @@ A tangible object that expresses mood through orientation.
 
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
+A 3D hexagonal shape that changes colour depending on orientation. It would contain an accelerometer that measures changes in orientation to signify a specific colour for an LED. The purpose of this is to have a tangible object that someone can physically turn  to express their mood or emotional state.
+
+
 ### Design concept 2 ###
 *Put details here.*
 
