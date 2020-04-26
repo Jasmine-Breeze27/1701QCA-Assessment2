@@ -5,7 +5,7 @@ You will use this workbook to keep track of your progress through the course and
 When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
 
 ## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
+Mood Cube
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
@@ -17,7 +17,7 @@ https://www.hackster.io/jiripraus/ever-blooming-mechanical-tulip-1b0323
 
 ![Image](everbloomingtulip.PNG)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because of the use of light, and movement to present emotions in an interactive way. This flower includes a smaller leaf which is connected to a touch sensor. When activated, the flower will begin to bloom with the LED's shining multiple colours. 
 
 ### Related project 2 ###
 Solar Powered LED Parking Sensor
@@ -26,7 +26,7 @@ https://www.hackster.io/aams86/solar-powered-led-parking-sensor-9dd11d
 
 ![Image](solarpoweredLEDparkingsensor.PNG)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because it uses LED's to reflect something; in this case, the proximity of a car. The mood cube uses LED's to reflect mood and an emotional state.
 
 ### Related project 3 ###
 Stereo NeoPixel Ring VU Meter
@@ -35,7 +35,7 @@ https://create.arduino.cc/projecthub/ericBcreator/stereo-neopixel-ring-vu-meter-
 
 ![Image](stereoneopixelringvumeter.PNG)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because the LED's react to a change in the device. In the mood cube the change would be orientation, whereas in the uv meter, it is the dials on the back.
 
 ### Related project 4 ###
 Virtual Arduino Tennis
@@ -44,7 +44,7 @@ https://create.arduino.cc/projecthub/gatoninja236/virtual-arduino-tennis-3700ce?
 
 ![Image](virtualarduinotennis.PNG)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because it uses an accelerometer to 
 
 ### Related project 5 ###
 Vernal
