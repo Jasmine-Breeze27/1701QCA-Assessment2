@@ -8,7 +8,6 @@ When you have completed the template, submit the link to the GitHub Pages site f
 Mood Cube
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
 Ever Blooming Mechanical Tulip
@@ -44,7 +43,7 @@ https://create.arduino.cc/projecthub/gatoninja236/virtual-arduino-tennis-3700ce?
 
 ![Image](virtualarduinotennis.PNG)
 
-This project is related to mine because it uses an accelerometer to 
+This project is related to mine because it uses an accelerometer to trigger LEDs. The Arduino Tennis project has used its accelerometer to interact with a neopixel matrix in order to simulate playing tennis. My chosen project is similar because the accelerometer triggers the LEDs to change, only in a simpler way.
 
 ### Related project 5 ###
 Vernal
@@ -53,7 +52,7 @@ https://create.arduino.cc/projecthub/vexelius/vernal-3c7dc0?ref=tag&ref_id=accel
 
 ![Image](vernal.PNG)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because the movement of the object controls the behaviour of the LEDs. This custom dress reacts to the wearer's movements by illuminating the lights that were stiched inside. My project also uses movement to light specific LEDs.
 
 ### Related project 6 ###
 Gesture Control Robot
@@ -62,7 +61,7 @@ https://create.arduino.cc/projecthub/raunak-oberai/gesture-control-robot-ff1307?
 
 ![Image](gesturecontrolrobot.PNG)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because an acceleromter has been used to control another device. In this case, the orientation of the operators hand is controlling a robot whereas the mood cube uses orientation to simply switch the colour of an LED to its corresponding side.
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
