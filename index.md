@@ -97,7 +97,12 @@ A hanging mood cube that changes colour depending on the orientation. It would c
 
 A mood cube that displays different colours when placed on each of its sides. It would contain an accelerometer that measure the change in orientation in order to display a specific coluur via LED. The purpose of this object to provide a physical object that can be oriented in order to express mood or emotional state.
 
+The materials will be gold wire and cardboard, creating a rustic and hipster lamp aesthetic. The cardboard will only be on the 'base' side and will have all the electricals inside while the wire will create the rest of the shape. The lightbulb and LED will be protruding from the 'base' side, coming out of the cardbord. Everything will be secured with hot glue.
+
 ![Image](MoodCube.jpg)
+
+Notes:
+Afer further thought, there will be no emoticons/icons on this device. This will not suit the desired aesthetic and icreases the difficulty of the project.
 
 ### Interaction flowchart ###
 
