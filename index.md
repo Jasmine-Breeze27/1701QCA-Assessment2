@@ -64,11 +64,37 @@ https://create.arduino.cc/projecthub/raunak-oberai/gesture-control-robot-ff1307?
 This project is related to mine because an acceleromter has been used to control another device. In this case, the orientation of the operators hand is controlling a robot whereas the mood cube uses orientation to simply switch the colour of an LED to its corresponding side.
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
 ### *Brief resource name/description* ###
 
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+There were two problems that I encountered when beginning to develop my project: I had no idea how to code an accelerometer and no clue how to code an LED. Because of this, all of the research has been videos and websites that explain how these technologies work and how to program them.
+
+https://www.youtube.com/watch?v=5M9p25OfKdg
+This video source provided the basics of two types of LED and how they operated. I used this resource as a way to better understand LEDs and how they can be used
+
+https://microbit-challenges.readthedocs.io/en/latest/tutorials/accelerometer.html
+This source was by far the most helpful in understanding how an accelerometer works and how to program it. There is an enourmous amoutn of information on the measurements, how to write the measurments yourself and even some javascript gestures for more efficient coding.
+
+https://makecode.microbit.org/reference/input/acceleration
+The video on this website was a crash course in acceleration and how the accelerometer used this to calculate orientation. This was very helpful in understanding how accelerometers work in a fun way.
+
+https://makecode.microbit.org/v0/69147-92003-84850-59500
+This source was a microbit project that used the accelerometer. I looked over the code provided to understand the accelerometer better.
+
+https://makecode.microbit.org/projects/guitar/accelerometer
+This is a resource from the guitar project which includes the accelerometer. I did not learn much from this source but still wanted to reflect on it just in case there was extra information.
+
+https://www.youtube.com/watch?v=nMxvdL9yvmo
+This video source was a step-by-step tutorial of the accelerometer. This is when I learned which orientation contributed to which measurement and how to correctly adjust this to my needs for this project.
+
+https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-for-microbit-experiment-guide/experiment-4-driving-an-rgb-led
+This source was an experiement guide that used an RGB LED. The code was helpful in confirming my knowledge of how to change colours of the LED.
+
+https://www.101computing.net/bbc-microbit-rgb-gradient/
+This resource was a tutorial about achieving a gradient with an RGB LED. The information I took away from this source is that three of the four LED pins need resistors. This information of cathodes and anodes was new and, therefore, very helpful.
+
+http://www.microbitlearning.com/code/arduino/microbit-basic-rgb-led-example.php
+This resource was similar to the previous one as it provided a diagram with the pins and corresponding resistors. The set up was minutely different but the outcome seemed the same.
 
 ## Conceptual progress ##
 
@@ -76,9 +102,6 @@ This project is related to mine because an acceleromter has been used to control
 A tangible object that expresses mood through orientation.
 
 ### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
-
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
 A 3D hexagonal shape that changes colour depending on orientation. It would contain an accelerometer that measures changes in orientation to signify a specific colour for an LED. The purpose of this is to have a tangible object that someone can physically turn  to express their mood or emotional state.
 
@@ -86,7 +109,6 @@ A 3D hexagonal shape that changes colour depending on orientation. It would cont
 
 
 ### Design concept 2 ###
-*Put details here.*
 
 A hanging mood cube that changes colour depending on the orientation. It would contain an accelerometer that measures the change in orientation in order to display a specific colour via LED. The purpose of this object is for someone to physically see their mood and emotional state.
 
@@ -95,9 +117,9 @@ A hanging mood cube that changes colour depending on the orientation. It would c
 ### Final design concept ###
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
-A mood cube that displays different colours when placed on each of its sides. It would contain an accelerometer that measure the change in orientation in order to display a specific coluur via LED. The purpose of this object to provide a physical object that can be oriented in order to express mood or emotional state.
+A mood cube that displays different colours when placed on each of its sides. It would contain an accelerometer that measures the change in orientation in order to display a specific colour via LED. The purpose of this object to provide a physical object that can be oriented in order to express mood or an emotional state.
 
-The materials will be gold wire and cardboard, creating a rustic and hipster lamp aesthetic. The cardboard will only be on the 'base' side and will have all the electricals inside while the wire will create the rest of the shape. The lightbulb and LED will be protruding from the 'base' side, coming out of the cardbord. Everything will be secured with hot glue.
+The materials will be gold or copper wire and cardboard, creating a rustic and hipster lamp aesthetic. The cardboard will only be on the 'base' side and will have all the electricals inside while the wire will create the rest of the shape. The lightbulb and LED will be protruding from the 'base' side, coming out of the cardbord. Everything will be secured with hot glue and wire, possibly super glue if necessary.
 
 ![Image](MoodCube.jpg)
 
