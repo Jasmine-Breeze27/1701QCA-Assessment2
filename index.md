@@ -96,6 +96,12 @@ This resource was a tutorial about achieving a gradient with an RGB LED. The inf
 http://www.microbitlearning.com/code/arduino/microbit-basic-rgb-led-example.php
 This resource was similar to the previous one as it provided a diagram with the pins and corresponding resistors. The set up was minutely different but the outcome seemed the same.
 
+http://planetpixelemporium.com/tutorialpages/light.html
+This website contains information about real world light sources. This source was used to find the RGB of a yellow light that would be on the base side of the cube.
+
+https://www.w3schools.com/colors/colors_picker.asp
+This source is used to find colours for html. I have utilised this source that I use for other classes to be able to pick the colours I desire on the mood cube and then copy the corresponding RGB. 
+
 ## Conceptual progress ##
 
 ### Design intent ###
@@ -138,6 +144,8 @@ b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, m
 Ensure you include comments about the choices you've made along the way.*
 
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
+
+
 
 ![Image](missingimage.png)
 
