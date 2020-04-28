@@ -1,9 +1,5 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
 
-You will use this workbook to keep track of your progress through the course and also as a process journal to document the making of your projects. The comments in italics throughout the template give suggestions about what to include. Feel free to delete those instructions when you have completed the sections.
-
-When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
-
 ## Project working title ##
 Mood Cube
 
@@ -67,7 +63,7 @@ This project is related to mine because an acceleromter has been used to control
 
 ### *Brief resource name/description* ###
 
-There were two problems that I encountered when beginning to develop my project: I had no idea how to code an accelerometer and no clue how to code an LED. Because of this, all of the research has been videos and websites that explain how these technologies work and how to program them.
+There were two problems that I encountered when beginning to develop my project: I had no idea how to code an accelerometer and no clue how to code an LED. Because of this, most of the research has been videos and websites that explain how these technologies work and how to program them.
 
 https://www.youtube.com/watch?v=5M9p25OfKdg
 This video source provided the basics of two types of LED and how they operated. I used this resource as a way to better understand LEDs and how they can be used
@@ -121,7 +117,6 @@ A hanging mood cube that changes colour depending on the orientation. It would c
 ![Image](HangingMoodCube.jpg)
 
 ### Final design concept ###
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
 A mood cube that displays different colours when placed on each of its sides. It would contain an accelerometer that measures the change in orientation in order to display a specific colour via LED. The purpose of this object to provide a physical object that can be oriented in order to express mood or an emotional state.
 
@@ -138,13 +133,6 @@ Afer further thought, there will be no emoticons/icons on this device. This will
 
 ## Physical experimentation documentation ##
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
-
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
-
 ### Technical Development ###
 
 After researching into RBG LEDs and the accelerometer, it was time to start coding. This began with a piece of paper to help visualise the pins that would connect the microbit and LED, the orientation of the microbit and any associated mathematics, as well as the RGB of each of the colours I wanted.
@@ -153,12 +141,12 @@ After researching into RBG LEDs and the accelerometer, it was time to start codi
 
 I started coding after having this plan and it began with the accelerometer. There is a gesture block that gives an orientation without any numbers and using that was effiecient for four of the six sides. Two of them had to calculated using the X and Y axis'. That code is as follows:
 
-![Image](tech1.jpg)
-![Image](tech2.jpg)
+![Image](tech1.PNG)
+![Image](tech2.PNG)
 
 After those values and logic blocks were added, it was just a matter of adding the RGB values according to the specific pins that they were assigned to. The only problem with this step is I am unsure as to how the RGB values are meant to be added to pins.
 
-![Image](tech3.jpg)
+![Image](tech3.PNG)
 
 ### Fabrication ###
 
@@ -190,7 +178,20 @@ It was then decided to create a square shape with excess on two sides in order t
 ![Image](wire3.jpg)
 
 ## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+
+In the beginning, I wanted to create a sort of launch pad and experiment with musical interactions. This idea was removed quite quickly since 'the first idea is always the worst one' and it would have been too difficult to create within the time frame. I then moved on to other ways people interacted with objects and how that might affect a person's emotional state. After viewing the Heartbeat art installation by Charles Petillion, I began to create ideas surrounding light and perspective. This then altered into my current design intent: A tangible object that expresses mood through orientation.
+
+All of these ideas were synthesized throught the Double Diamond design methodology, even if I wasn't aware of the fact. It has been a constant loop of the first diamond ot produce the ideas and a loop for after the second diamond with my development of my design intent. It began with ideas of what to create and now it is refining those ideas in to realistic solutions. It has now become a loopof the second diamond as there have been tweaks in the code, changes to the materials and aesthetics, as well as different shapes and development methods. I have gotten this current point by discovering and defining repetitvely in order to move on to the develop and delivering phases, which have evended up being just as repetative.
 
 ## Next steps ##
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+
+The plan for the upcoming weeks is to:
+- complete multiple prototypes in order to test function, size, weight, etc.
+- tweak LED colours to suit aesthetic
+- fix the code
+- have more detailed sketches that include measurements, materials, notes for refinement, etc.
+- ,if i have time, program the LED to present gradients rather than one colour
+- again, if i have time, code gradients and solid colours that toggle with a button press.
+
+There are many ideas that have been placed into the list above and not all of them will be completed but I am not worried about the time-frame. This is because the technology i have designed is simple without too many details. The following weeks will mainly be testing and refining until reaching the best solution.
