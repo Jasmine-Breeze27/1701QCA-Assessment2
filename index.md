@@ -145,6 +145,13 @@ Ensure you include comments about the choices you've made along the way.*
 
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
+### Technical Development ###
+
+After researching into RBG LEDs and the accelerometer, it was time to start coding. This began with a piece of paper to help visualise the pins that would connect the microbit and LED, the orientation of the microbit and any associated mathematics, as well as the RGB of each of the colours I wanted.
+
+![Image](missingimage.png)
+
+### Fabrication ###
 
 
 ![Image](missingimage.png)
